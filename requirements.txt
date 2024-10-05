@@ -1,0 +1,14 @@
+hydra-zen
+unique-names-generator
+torchmetrics
+plotext
+tqdm
+wandb
+ruff
+pre-commit
+blosc2
+ipython
+neovim
+rich
+textual
+textual_plotext
